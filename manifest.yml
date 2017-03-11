@@ -1,0 +1,6 @@
+applications:
+   - name: SpringBoot-JF-Mar2017
+     random-route: true
+     path: target/gs-spring-boot-0.1.0.jar
+     memory: 512M
+     instances: 1
